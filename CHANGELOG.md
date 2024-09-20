@@ -1,5 +1,21 @@
 # Changelog
 
+## [2024.9.7](https://github.com/jdx/mise/compare/v2024.9.6..v2024.9.7) - 2024-09-20
+
+### 🚀 Features
+
+- task argument declarations by [@jdx](https://github.com/jdx) in [#2612](https://github.com/jdx/mise/pull/2612)
+
+### 🐛 Bug Fixes
+
+- **(windows)** node bin path by [@jdx](https://github.com/jdx) in [eed0ecf](https://github.com/jdx/mise/commit/eed0ecfb528aa1fa04efcadf44afd353db76a7c4)
+- ensure that version is not "latest" in node by [@jdx](https://github.com/jdx) in [0e196d6](https://github.com/jdx/mise/commit/0e196d6d9c0b0851148ba9894191d766c0386356)
+
+### 🔍 Other Changes
+
+- Update toml-tasks.md by [@jdx](https://github.com/jdx) in [9d26963](https://github.com/jdx/mise/commit/9d2696366bd21be47c5a6e25586e7061c0a7838c)
+- change prune message to debug-level by [@jdx](https://github.com/jdx) in [f54dd0d](https://github.com/jdx/mise/commit/f54dd0de830e0249b07cc263707530c6795d512f)
+
 ## [2024.9.6](https://github.com/jdx/mise/compare/v2024.9.5..v2024.9.6) - 2024-09-18
 
 ### 🚀 Features
